@@ -1,5 +1,0 @@
-
-Impacto da Idade: O gráfico mostra como diferentes faixas etárias influenciam a previsão de gênero. A dispersão dos pontos azuis indica a variabilidade das previsões.
-Importância dos Parâmetros: A lista de parâmetros com seus impactos percentuais sugere que ‘num_procedures’ tem o maior impacto na previsão de gênero, seguido por ‘num_medications’ e assim por diante.
-Conclusão
-A análise sugere que, embora a idade tenha um impacto na previsão de gênero, outros fatores como o número de procedimentos e medicamentos têm uma influência mais significativa. 
